@@ -7,8 +7,8 @@ How to Play?
 
 1) Press any key on the keyboard to start playing the game.<br>
 2) The game played on alternating turns between computer and the player (user).<br>
-At first the computer turns first and selects one of the four tiles(namely, blue, red, yellow and green).
-After, that player has to choose the right order in which computer selects the turns (in such a way that user need to start selecting all the tiles from the beginning).
-At every level one new tile will be selected by the computer which player needs to remeber to pass the current level and to reach to the next level.
-If at any step , the player couldn't selects the right order then, the game gets over.
-If they want to play again, they need to press any key on the keyboard.(and the game will start again)
+3) At first the computer turns first and selects one of the four tiles(namely, blue, red, yellow and green).<br>
+4) After, that player has to choose the right order in which computer selects the turns (in such a way that user need to start selecting all the tiles from the beginning).<br>
+5) At every level one new tile will be selected by the computer which player needs to remeber to pass the current level and to reach to the next level.<br>
+6) If at any step , the player couldn't selects the right order then, the game gets over.<br>
+7) If they want to play again, they need to press any key on the keyboard.(and the game will start again)
